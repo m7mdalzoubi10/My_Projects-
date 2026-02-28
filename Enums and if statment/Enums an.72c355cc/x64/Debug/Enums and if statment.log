@@ -1,0 +1,5 @@
+﻿  Enums and if statment.cpp
+C:\Users\User\Desktop\C++ programms level one\Enums and if statment\Enums and if statment.cpp(38,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\User\Desktop\C++ programms level one\Enums and if statment\Enums and if statment.cpp(7,5):
+      see previous definition of 'main'
+  

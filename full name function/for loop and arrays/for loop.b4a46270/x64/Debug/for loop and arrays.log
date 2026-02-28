@@ -1,0 +1,3 @@
+﻿  for loop and arrays.cpp
+C:\Users\User\Desktop\C++ programms level one\for loop and arrays\for loop and arrays.cpp(35,18): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  for loop and arrays.vcxproj -> C:\Users\User\Desktop\C++ programms level one\for loop and arrays\x64\Debug\for loop and arrays.exe
